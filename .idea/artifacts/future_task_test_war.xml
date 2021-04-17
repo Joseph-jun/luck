@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="future-task-test:war">
+    <output-path>$PROJECT_DIR$/futuretasktest/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>future-task-test</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="future-task-test.war">
+      <element id="artifact" artifact-name="future-task-test:war exploded" />
+    </root>
+  </artifact>
+</component>
