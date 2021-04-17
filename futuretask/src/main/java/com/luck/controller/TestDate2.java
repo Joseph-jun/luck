@@ -8,5 +8,6 @@ package com.luck.controller;
 public class TestDate2 {
   public static void main(String[] args) {
     System.out.println("Good luck with you!!!");
+    System.out.println("test success");
   }
 }
