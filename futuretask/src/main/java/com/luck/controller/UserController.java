@@ -7,3 +7,4 @@ package com.luck.controller;
  */
 public class UserController {
 }
+
